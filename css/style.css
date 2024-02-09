@@ -1,0 +1,35 @@
+.c_prev{
+	left: 80% !important;
+	bottom: 5% !important;
+}
+
+.c_next{
+	right: 0 !important;
+	bottom: 5% !important;
+}
+
+.c_prev, .c_next {
+    top: 70%;
+    width: 12%;
+}
+
+.custom-ind {
+    right: 85%;
+    bottom: 46%;
+    display: block;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 12%;
+}
+
+.custom-ind [data-bs-target] {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+}
+
+.custom_btn{
+	margin-top: 10px;
+	background-color: #212529;
+	border-color: #212529;
+}
